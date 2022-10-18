@@ -1,0 +1,26 @@
+html {
+    background-color: #21222c;
+    color: white;
+}
+
+#cabecera {
+    height: 40vh;
+    width: 100%;
+    display: inline-block;
+    object-fit: cover;
+}
+
+#titulo {
+    text-align: center;
+}
+
+.estrella {
+    height: 2.5vh;
+    width: 2.5vh;
+    filter: invert(1);
+}
+
+.links {
+    color: white;
+    text-decoration: none;
+}
